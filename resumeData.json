@@ -41,6 +41,11 @@
         "name":"github",
         "url":"http://github.com/gauravpatil1",
         "className":"fa fa-github"
+      },
+      {
+        "name":"docker",
+        "url":"https://hub.docker.com/u/gauravpatil",
+        "className":"fa fa-docker"
       }
     ]
   },
