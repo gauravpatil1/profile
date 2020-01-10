@@ -41,25 +41,20 @@
         "name":"github",
         "url":"http://github.com/gauravpatil1",
         "className":"fa fa-github"
-      },
-      {
-        "name":"docker",
-        "url":"https://hub.docker.com/u/gauravpatil",
-        "className":"fa fa-docker"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Enthusiastic to learn new skillset or solve challenging problems",
+    "skillmessage":"Enthusiastic to learn new skills or solve challenging problems",
     "education":[
       {
-        "school":"Shri Guru Gobind Singhji Institute of Engineering and Technoogy, Nanded",
-        "degree":"Bachelor of Technoogy in Information Technoogy",
+        "school":"Shri Guru Gobind Singhji Institute of Engineering and Technology, Nanded",
+        "degree":"Bachelor of Technology in Information Technology",
         "graduated":"May 2017",
         "description":""
       },
       {
-        "school":"Jawahar Navodaya Vidyalaya",
+        "school":"Jawahar Navodaya Vidyalaya, Bhusawal",
         "degree":"Junior College",
         "graduated":"May 2012",
         "description":""
@@ -67,7 +62,7 @@
     ],
     "work":[
       {
-        "company":"Indian Institute of Technoogy, Bombay",
+        "company":"Indian Institute of Technology Bombay",
         "title":"Senior Project Technical Assistant/ Jr. Software Engineer",
         "years":"February 2018 - Present",
         "description":""
